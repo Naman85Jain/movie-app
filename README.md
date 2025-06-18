@@ -27,3 +27,12 @@ This app uses the **TMDb API** to fetch movie data. You’ll need an API key to 
 1. Create a free account at [TMDb](https://www.themoviedb.org/)
 2. Get your API key from the **API section**
 3. Create a `.env` file in your project root and add:
+
+## 📢 Disclaimer
+
+This project is for educational and demonstrational purposes only.
+
+All movie data and images used in this app are provided by [The Movie Database (TMDb)](https://www.themoviedb.org/) API.  
+This product is **not certified or endorsed** by TMDb.
+
+© 2025 Naman Jain. All rights reserved.
