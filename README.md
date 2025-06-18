@@ -1,12 +1,29 @@
-# React + Vite
+# 🎬 CineMaze
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern movie browser built with **React.js**. Explore popular movies, search your favorites, and save the ones you love — all powered by an external movie API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Search Movies**: Instantly search for any movie by title.
+- 🌟 **Popular Movies**: View trending and popular movies fetched from the API.
+- ❤️ **Add to Favourites**: Save your favorite movies for easy access.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **HTML & CSS**
+- **JavaScript (ES6+)**
+- **External API**: [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
+
+## 🌐 Live Demo
+
+Check out the live version of the app here:  
+👉 **[Movie App Live](https://cinemaze.netlify.app/)**
+
+## 🧪 API Integration
+
+This app uses the **TMDb API** to fetch movie data. You’ll need an API key to run the app locally.
+
+1. Create a free account at [TMDb](https://www.themoviedb.org/)
+2. Get your API key from the **API section**
+3. Create a `.env` file in your project root and add:
